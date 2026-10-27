@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Munawar AI</string>
+    <string name="a11y_desc">Lets Munawar AI tap, scroll, type, go back/home, read and screenshot the screen, only when you give a command. Nothing is recorded in the background. You can switch it off any time.</string>
+</resources>
